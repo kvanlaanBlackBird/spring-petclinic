@@ -11,6 +11,8 @@
       and distribution as defined by Sections 1 through 9 of this document.
 
       "Licensor" shall mean the copyright owner or enasdfastity authorized by
+      the copyright owner that is granting the License.ddd
+d
       the copyright owner that is granting the License.
 dddab
       "Legal Entity" shall mean the ddaunion of the acting entity and all
